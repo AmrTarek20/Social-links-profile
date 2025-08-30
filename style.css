@@ -1,0 +1,66 @@
+body {
+    background-color:#0E0E0E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
+    font-family: sans-serif;
+}   
+
+main {
+    background-color: #1D1D1D;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);;
+    width: 370px;
+    height: 635px;
+    margin: 70px ;
+    border-radius: 15px;
+}
+
+img {
+   width: 100px;
+    margin-top:35px ;
+    } 
+
+    main {
+        color: #FFFFFF;
+        text-align: center
+    }
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    color:#9290cb ;
+
+    font-size: 15px;
+    margin-top: -7px;
+    padding-bottom: 20px;
+}
+span {
+    color:#eae7e7;
+
+}
+div {
+        width: 330px;
+     margin-top: 30px;  
+}
+
+a {
+        background-color:#2E2E2E ;
+        margin: 20px 0 10px 42px ;
+    padding: 13px;
+    border-radius: 8px;
+    display: block;
+ text-decoration: none;
+ color:#FFFFFF;
+ font-weight: 550;
+ transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+a:hover {
+        background:linear-gradient(135deg, #433f3f, #9290cb) ;
+    border-radius: 8px;
+      box-shadow: 0 4px 15px rgba(197, 198, 198, 0.279);
+        transform: translateY(-2px); /* يرفع الزر لفوق بمقدار 2px */
+}
