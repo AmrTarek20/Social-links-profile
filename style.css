@@ -34,7 +34,7 @@ h2 {
     color:#9290cb ;
 
     font-size: 15px;
-    margin-top: -7px;
+    margin-top: -11px;
     padding-bottom: 20px;
 }
 span {
@@ -64,3 +64,4 @@ a:hover {
       box-shadow: 0 4px 15px rgba(197, 198, 198, 0.279);
         transform: translateY(-2px); /* يرفع الزر لفوق بمقدار 2px */
 }
+
